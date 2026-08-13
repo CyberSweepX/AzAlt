@@ -1,9 +1,6 @@
 import { AzAltLogo } from '@/components/az-alt/az-alt-logo'
 
 const links = [
-  { label: 'Haqqımızda', href: '#' },
-  { label: 'Şərtlər', href: '#' },
-  { label: 'Təklif Göndər', href: '#' },
   { label: 'GitHub', href: 'https://github.com/CyberSweepX/AzAlt' },
 ]
 
