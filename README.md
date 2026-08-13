@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/CyberSweepX/AzAlt">
+  <img src="public/logo.svg" alt="AzAlt Logo" width="110" height="110" />
+</a>
+
 # ⚡ AzAlt
 
 ### **Proqram xərclərini AzAlt** — Pulsuz və Açıq Mənbəli Proqram Alternativləri Kataloqu
