@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 export const metadata: Metadata = {
   title: 'AzAlt — Pulsuz və Açıq Mənbəli Proqram Alternativləri',
   description:
-    'Azərbaycan istifadəçiləri üçün seçilmiş ən yaxşı açıq mənbəli (open-source) və pulsuz proqram təminatları kataloqu. Pirat proqramlara son.',
+    'Azərbaycan istifadəçiləri üçün seçilmiş ən yaxşı açıq mənbəli (open-source) və pulsuz proqram təminatları kataloqu. Proqram xərclərini AzAlt.',
   generator: 'v0.app',
   icons: {
     icon: [
