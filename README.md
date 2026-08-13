@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="public/logo.svg" alt="AzAlt Logo" width="60" height="60" align="center" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="vertical-align: middle;">AzAlt</span>
-</h1>
+<div align="center">
+  <img src="public/logo.svg" alt="AzAlt Logo" width="96" height="96" />
+  <h1>AzAlt</h1>
+</div>
 
 <div align="center">
 
