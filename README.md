@@ -1,8 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/CyberSweepX/AzAlt">
-  <img src="public/logo.svg" alt="AzAlt Logo" width="110" height="110" />
-</a>
+<svg viewBox="0 0 36 36" width="100" height="100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="22" height="22" rx="6" fill="#cba6f7" fill-opacity="0.3" />
+  <rect x="11" y="11" width="20" height="20" rx="6" fill="#cba6f7" />
+  <path
+    d="M17 18.5h7.5m0 0-2.5-2.5m2.5 2.5-2.5 2.5M25 23.5h-7.5m0 0 2.5 2.5m-2.5-2.5 2.5-2.5"
+    stroke="#11111b"
+    stroke-width="1.75"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
 
 # ⚡ AzAlt
 
