@@ -17,9 +17,12 @@
 
 ## 📌 Haqqında (About)
 
-**AzAlt** — Azərbaycan istifadəçiləri üçün hazırlanmış, bahalı və ya lisenziyasız (pirat) proqramlara ən yaxşı pulsuz, məxfilik yönümlü və açıq mənbəli (**Open-Source**) alternativləri toplayan müasir kataloqdur.
+AzAlt — baha proqram lisenziyaları və məlumat toplayan xidmətlər əvəzinə tam pulsuz, açıq mənbəli (Open-Source) və məxfilik yönümlü alternativləri bir araya gətirən müasir katalogdur. Məqsədimiz rəqəmsal azadlığı təşviq etmək, fərdi və korporativ proqram xərclərini sıfıra endirməkdir.
 
-Photoshop, Microsoft Office, Premiere Pro və digər ödənişli proqramların əvəzinə GIMP, LibreOffice, Kdenlive və DaVinci Resolve kimi güclü və təhlükəsiz alternativləri asanlıqla kəşf edin.
+### 🎯 Əsas Prinsiplərimiz
+- 💰 **Ödənişli lisenziya xərclərini azaltmaq**: Fərdlər və müəssisələr üçün proqram təminatı büdcəsini sıfıra endirmək.
+- 🔓 **Açıq mənbəli (Open-Source) azadlıq**: İstifadəçilərin istifadə etdiyi proqram təminatının şəffaflığını və azadlığını təmin etmək.
+- 🛡️ **Məxfilik və təhlükəsizlik**: Fərdi məlumatları izləməyən və toplaymayan etibarlı proqram təminatlarını ön plana çıxarmaq.
 
 ---
 
