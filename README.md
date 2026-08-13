@@ -1,15 +1,7 @@
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td style="border: none; padding-right: 15px; vertical-align: middle;">
-        <img src="public/logo.svg" alt="AzAlt Logo" width="64" height="64" />
-      </td>
-      <td style="border: none; vertical-align: middle;">
-        <h1 style="margin: 0; padding: 0;">AzAlt</h1>
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">
+  <img src="public/logo.svg" alt="AzAlt Logo" width="80" height="80" align="absmiddle" />
+  AzAlt
+</h1>
 
 <div align="center">
 
