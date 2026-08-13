@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/logo.svg" alt="AzAlt Logo" width="96" height="96" />
-  <h1>AzAlt</h1>
+  <h1 style="margin-top: -10px; margin-bottom: 10px;">AzAlt</h1>
 </div>
 
 <div align="center">
