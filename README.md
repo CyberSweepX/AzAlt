@@ -1,8 +1,14 @@
 <div align="center">
-  <a href="#">
-    <img src="public/logo.svg" alt="AzAlt Logo" width="96" height="96" align="center" />
-  </a>
-  <h1>AzAlt</h1>
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none; padding-right: 15px; vertical-align: middle;">
+        <img src="public/logo.svg" alt="AzAlt Logo" width="64" height="64" />
+      </td>
+      <td style="border: none; vertical-align: middle;">
+        <h1 style="margin: 0; padding: 0;">AzAlt</h1>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
