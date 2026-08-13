@@ -4,7 +4,7 @@ const links = [
   { label: 'Haqqımızda', href: '#' },
   { label: 'Şərtlər', href: '#' },
   { label: 'Təklif Göndər', href: '#' },
-  { label: 'GitHub', href: 'https://github.com' },
+  { label: 'GitHub', href: 'https://github.com/CyberSweepX/AzAlt' },
 ]
 
 export function SiteFooter() {
